@@ -1,1 +1,2 @@
 # AI-powered-Pharmacist-Assistant
+The system will scan and digitalise handwritten prescriptions using OCR(Optical Character Recognition) and it will extract relevant medical information using NLP(Natural Language Processing). The system will match extracted data containing medicine, dosages against a structured pharmacy database which checks for stock availability. The system will generate and validate patient orders and get it approved by the pharmacist before generating the finalized order.
